@@ -1,0 +1,19 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "this is simple app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "kimbyeongsu",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^1.0.0",
+    "bootstrap": "^4.1.3",
+    "delay": "^3.0.0",
+    "express": "^4.16.3",
+    "throw": "^1.1.0"
+  }
+}
